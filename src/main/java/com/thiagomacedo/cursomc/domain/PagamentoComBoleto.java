@@ -4,7 +4,6 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import com.thiagomacedo.cursomc.domain.enums.EstadoPagamento;
 
 import javax.persistence.Entity;
-import javax.xml.bind.DataBindingException;
 import java.util.Date;
 
 @Entity
